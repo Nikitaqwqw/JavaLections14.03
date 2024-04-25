@@ -1,4 +1,3 @@
-
 import java.util.Objects;
 
 public class Person {
@@ -34,4 +33,3 @@ public class Person {
                 '}';
     }
 }
-
